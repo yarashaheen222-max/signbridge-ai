@@ -1,0 +1,21 @@
+name: signbridge_ai
+description: Arabic-first accessible sign language translation MVP
+publish_to: none
+version: 0.8.0+8
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  speech_to_text: ^7.0.0
+  image_picker: ^1.1.2
+  google_mlkit_text_recognition: ^0.15.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter:
+  uses-material-design: true

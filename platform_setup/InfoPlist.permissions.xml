@@ -1,0 +1,5 @@
+<!-- Merge inside <dict> in ios/Runner/Info.plist -->
+<key>NSMicrophoneUsageDescription</key>
+<string>يستخدم SignBridge الميكروفون لتحويل الكلام إلى نص ثم إلى مسار لغة الإشارة.</string>
+<key>NSSpeechRecognitionUsageDescription</key>
+<string>يستخدم SignBridge التعرف على الكلام لمساعدة المستخدم على فهم الحديث.</string>
